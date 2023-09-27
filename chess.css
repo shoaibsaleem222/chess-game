@@ -1,0 +1,25 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    background-color: green;
+    box-sizing: border-box;
+}
+.black{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+.white{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.new{
+    display: flex;
+    justify-content: center;
+}
